@@ -1,0 +1,8 @@
+-->Pour cloner un repository :
+
+git clone + copier le lien du fichier à partir de Github
+
+--> les trois commandes de push :
+git add + le nom du fichier
+git commit -m"décrire le travail effectué"
+git push
